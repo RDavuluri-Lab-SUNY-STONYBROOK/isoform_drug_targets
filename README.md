@@ -1,7 +1,7 @@
 # In silico analysis of alternative splicing on drug-target gene interactions
 
 ## Background
-This repository contains scripts used to reproduce study published in [Ji, Mishra, Davuluri, Scientific Reports, 2020] (https://www.nature.com/articles/s41598-019-56894-x). The aim is to perform a global survey and computational analysis of protein isoforms/splice variants that may affect drug-gene interactions.
+This repository contains scripts used to reproduce study published in [Ji, Mishra, Davuluri, Scientific Reports, 2020](https://www.nature.com/articles/s41598-019-56894-x). The aim is to perform a global survey and computational analysis of protein isoforms/splice variants that may affect drug-gene interactions.
 
 ## Prerequisites
 * R (≥ 3.4.3)
